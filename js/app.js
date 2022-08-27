@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>Blog Project</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="DescriptionwithcapitalD" content="">
+    <meta name="DescriptionDDD" content="">
     <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
